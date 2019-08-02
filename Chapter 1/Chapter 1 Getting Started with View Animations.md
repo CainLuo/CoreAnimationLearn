@@ -356,7 +356,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4, options: [],
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/14.png)
 
 
 
