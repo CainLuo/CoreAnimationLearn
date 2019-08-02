@@ -6,7 +6,7 @@ UIKit中的spring提供了更多的优美和美观来查看动画。苹果自己
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/1.png)
 
 
 
@@ -14,7 +14,7 @@ UIKit中的spring提供了更多的优美和美观来查看动画。苹果自己
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/2.png)
 
 
 
@@ -22,7 +22,7 @@ UIKit中的spring提供了更多的优美和美观来查看动画。苹果自己
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/3.png)
 
 
 
@@ -37,7 +37,7 @@ UIKit中的spring提供了更多的优美和美观来查看动画。苹果自己
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/4.png)
 
 
 
@@ -78,7 +78,7 @@ animations: {
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/5.png)
 
 
 
@@ -94,7 +94,7 @@ animations: {
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/6.png)
 
 
 
@@ -131,7 +131,7 @@ UIView.animate(withDuration: 1.5, delay: 0.0, usingSpringWithDamping:
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/7.png)
 
 
 
@@ -156,7 +156,7 @@ UIView.animate(withDuration: 0.33, delay: 0.0, usingSpringWithDamping:
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/8.png)
 
 
 
@@ -174,7 +174,7 @@ self.loginButton.backgroundColor = UIColor(red: 0.85, green: 0.83, blue: 0.45, a
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/9.png)
 
 
 
@@ -198,7 +198,7 @@ self.spinner.alpha = 1.0
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/10.png)
 
 
 
@@ -226,10 +226,11 @@ UIKit中的spring动画api在使用上与标准动画api非常相似。因此，
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%202/11.png)
 
 
 
 在本书中，您已经获得了spring动画的坚实基础。你玩这类动画的次数越多，你对阻尼和速度的不同组合进行的实验越多，你就越能在自己的应用程序中为视图设计完美的spring动画。
 
 你准备好进入下一章了吗?在第3章中，你将学习UIKit中的下一种动画类型:转换。
+
