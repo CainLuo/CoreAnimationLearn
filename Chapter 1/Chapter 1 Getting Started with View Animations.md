@@ -264,7 +264,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4,
 
 
 
-![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/12.png)
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/12.jpg)
 
 
 
@@ -295,7 +295,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4,
 
 
 
-![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/13.jpg)
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/13.png)
 
 
 
