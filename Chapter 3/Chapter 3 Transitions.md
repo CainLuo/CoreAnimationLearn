@@ -9,7 +9,7 @@
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/1.png)
 
 
 
@@ -70,7 +70,7 @@ override func viewDidAppear(_ animated: Bool) {
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/2.png)
 
 
 
@@ -90,6 +90,8 @@ UIView.transition(with: animationContainerView, duration: 0.33,
 包装器转换将执行翻转动画，并在动画结束时消失一些视图。
 
 ### 隐藏/显示一个视图
+
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/3.png)
 
 到目前为止，在本章中，您只了解了更改视图层次结构的转换。这就是为什么您需要一个用于转换的容器视图—这将层次结构更改放在上下文中。
 
@@ -116,7 +118,7 @@ UIView.transition(with: someView, duration: 0.33,
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/4.png)
 
 
 
@@ -138,7 +140,7 @@ UIView.transition(from: oldView, to: newView, duration: 0.33,
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/5.png)
 
 
 
@@ -173,7 +175,7 @@ func showMessage(index: Int) {
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/6.png)
 
 
 
@@ -205,7 +207,7 @@ completion: { _ in
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/7.png)
 
 
 
@@ -268,7 +270,7 @@ delay(2.0) {
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/8.png)
 
 
 
@@ -316,7 +318,7 @@ UIView.transitionWithView(status, duration: 0.33, options:
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/9.png)
 
 
 
@@ -343,7 +345,7 @@ UIView.transitionWithView(status, duration: 0.33, options:
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/10.png)
 
 
 
@@ -381,7 +383,7 @@ animateCloud(cloud4)
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%203/11.png)
 
 
 
