@@ -15,7 +15,7 @@
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/1.png)
 
 
 
@@ -41,7 +41,7 @@ password.center.x -= view.bounds.width
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/2.png)
 
 
 
@@ -51,7 +51,7 @@ password.center.x -= view.bounds.width
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/3.png)
 
 
 
@@ -73,7 +73,7 @@ UIView.animate(withDuration: 0.5) {
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/4.png)
 
 
 
@@ -91,7 +91,7 @@ self.username.center.x += self.view.bounds.width
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/5.png)
 
 
 
@@ -131,7 +131,7 @@ UIView.animate(withDuration: 0.5, delay: 0.3, options: [],
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/6.png)
 
 
 
@@ -151,7 +151,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4, options: [],
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/7.png)
 
 
 
@@ -170,7 +170,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4, options: [],
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/8.png)
 
 
 
@@ -184,7 +184,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4, options: [],
 
 ### 外观
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/9.png)
 
 
 
@@ -195,7 +195,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4, options: [],
 
 ### 转换
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/10.png)
 
 转换修改视图的方法与上面的方法非常相似，因为您还可以调整大小和位置。
 
@@ -233,7 +233,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4,
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/11.png)
 
 
 
@@ -264,7 +264,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4,
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/12.png)
 
 
 
@@ -295,7 +295,7 @@ UIView.animate(withDuration: 0.5, delay: 0.4,
 
 
 
-[图片]
+![图片](https://raw.githubusercontent.com/CainLuo/CoreAnimationLearn/master/Chapter%201/13.jpg)
 
 
 
